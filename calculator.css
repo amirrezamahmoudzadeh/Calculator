@@ -24,6 +24,9 @@
     padding: 10px;
     text-align: center;
     font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
     border: 1px solid #ddd;
     cursor: pointer;
     transition-duration: 0.4s;
